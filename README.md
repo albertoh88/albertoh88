@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hola, soy Alberto  
+Desarrollador y creador de scripts prácticos en Python.  
+En este perfil encontrarás proyectos útiles y fáciles de adaptar.
 
-<!--
-**albertoh88/albertoh88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Tecnologías que uso
+- Python 🐍
+- Pygame 🎮
+- MongoDB 🍃
 
-Here are some ideas to get you started:
+## 📫 Cómo contactarme
+[![Workana](https://img.shields.io/badge/Workana-Perfil-blue)](https://www.workana.com/freelancer/fd7d49c6c5bbf49c34f678220196cbff)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+⭐ Si te gustan mis proyectos, ¡puedes apoyarme en .[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W21JR914)!
