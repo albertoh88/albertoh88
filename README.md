@@ -38,9 +38,9 @@ Todos mis proyectos incluyen **documentación clara en Español, Inglés y Portu
 ## 📫 Contacto y perfiles
 
 [![Workana](https://img.shields.io/badge/Workana-Perfil-blue?style=for-the-badge)](https://www.workana.com/freelancer/fd7d49c6c5bbf49c34f678220196cbff)  
-[![Fiverr](https://img.shields.io/badge/Fiverr-Perfil-green?style=for-the-badge)](#)  
+[![Fiverr](https://img.shields.io/badge/Fiverr-Perfil-green?style=for-the-badge)](https://es.fiverr.com/albertoh8806?public_mode=true)  
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-Support-orange?style=for-the-badge)](https://ko-fi.com/W7W21JR914)  
-[![Gumroad](https://img.shields.io/badge/Gumroad-Shop-red?style=for-the-badge)](#)
+[![Gumroad](https://img.shields.io/badge/Gumroad-Shop-red?style=for-the-badge)](https://elflacorex.gumroad.com/subscribe)
 
 ---
 
