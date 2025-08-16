@@ -14,7 +14,10 @@ Todos mis proyectos incluyen **documentación clara en Español, Inglés y Portu
 | Habilidad | Descripción |
 |-----------|-------------|
 | Python 🐍 | Scripts para automatización, procesamiento de archivos y datos |
-| MongoDB 🍃 |
+| MongoDB 🍃 | Gestión y manipulación de bases de datos NoSQL, consultas y exportación de información |
+| MySQL 🛢️ | Creación y administración de bases de datos relacionales, consultas y reportes |
+| Blockchain ⛓️ | Conexión con redes blockchain, lectura y escritura de datos, interacción con contratos inteligentes |
+| APIs 🌐	| Consumo e integración de APIs REST y servicios externos en tus proyectos |
 | Archivos 📂 | Conversión, limpieza y organización de TXT, CSV, Excel, PDF |
 | Automatización ⚡ | Tareas repetitivas, generación de reportes, extracción de datos |
 | Documentación 📖 | Guías claras y multilingüe para cualquier usuario |
