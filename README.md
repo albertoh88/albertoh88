@@ -1,46 +1,60 @@
-# 👋 Hola, soy Alberto
+# 👋 Olá! Sou Alberto  
 
-![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&style=for-the-badge)
-![Automation](https://img.shields.io/badge/Automation-Scripts-green?style=for-the-badge)
-![Multilingual](https://img.shields.io/badge/Languages-ES%20%7C%20PT%20%7C%20EN-orange?style=for-the-badge)
-
-Soy desarrollador independiente enfocado en **crear scripts y automatizaciones simples** en Python para resolver problemas cotidianos y ahorrar tiempo.  
-Todos mis proyectos incluyen **documentación clara en Español, Inglés y Portugués**.
+💻 **Desenvolvedor Backend | APIs REST | Python | FastAPI | MongoDB | Docker**  
+🚀 Apaixonado por criar soluções sólidas, escaláveis e bem documentadas.  
 
 ---
 
-## 🛠️ Mis habilidades
+## 🚀 Sobre mim  
 
-| Habilidad | Descripción |
-|-----------|-------------|
-| Python 🐍 | Scripts para automatización, procesamiento de archivos y datos |
-| MongoDB 🍃 | Gestión y manipulación de bases de datos NoSQL, consultas y exportación de información |
-| MySQL 🛢️ | Creación y administración de bases de datos relacionales, consultas y reportes |
-| Blockchain ⛓️ | Conexión con redes blockchain, lectura y escritura de datos, interacción con contratos inteligentes |
-| APIs 🌐	| Consumo e integración de APIs REST y servicios externos en tus proyectos |
-| Archivos 📂 | Conversión, limpieza y organización de TXT, CSV, Excel, PDF |
-| Automatización ⚡ | Tareas repetitivas, generación de reportes, extracción de datos |
-| Documentación 📖 | Guías claras y multilingüe para cualquier usuario |
+- 🔹 Gosto de **programar e aprender criando projetos**.  
+- 🔹 Trabalho com **Python**, explorando **FastAPI**.  
+- 🔹 Uso **MongoDB** e **MySQL** para armazenar dados.  
+- 🔹 Estou aprendendo a documentar meus projetos de forma clara.  
+- 🔹 Me interesso em **testes simples** para garantir que meus projetos funcionem.
 
 ---
 
-## 📂 Proyectos destacados
+## 🛠️ Tecnologias & Ferramentas  
 
-- **Conversión de archivos**: .jpg → .png / .txt → .csv  
-- **Automatización de reportes**: Excel, CSV, PDF  
-- **Extracción de datos**: OCR y procesamiento de documentos  
-- **Scripts listos para uso empresarial o personal**
-
-*(Pronto agregaré enlaces de descarga directa y demos visuales)*
-
----
-
-## 📫 Contacto y perfiles
-
-[![Workana](https://img.shields.io/badge/Workana-Perfil-blue?style=for-the-badge)](https://www.workana.com/freelancer/fd7d49c6c5bbf49c34f678220196cbff)   
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-Support-orange?style=for-the-badge)](https://ko-fi.com/W7W21JR914)  
-[![Gumroad](https://img.shields.io/badge/Gumroad-Shop-red?style=for-the-badge)](https://elflacorex.gumroad.com/subscribe)
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</p>
 
 ---
 
-⭐ Si te gustan mis proyectos, ¡puedes apoyarme en Ko-fi o contactarme para encargos personalizados!
+## 📂 Meus projetos mais recentes
+
+- [API para gestão de arquivos multimídia (imagens, áudios, vídeos, documentos).](https://github.com/albertoh88/BlockVault-API)
+
+- [Sistema de logs com alertas.](https://github.com/albertoh88/LogData)
+
+- [API para gestão de usuários. Em desenvolvimento para expandir funcionalidades.](https://github.com/albertoh88/API_sistema_gestion_usuarios)
+
+<p align="left">
+<br>
+Se você acha que mereço um pouco de estímulo, que tal me convidar para um café/chá? 🥺
+<br>
+<br>
+<a href='https://ko-fi.com/W7W21JR914' target='_blank'>
+  <img height='36' style='border:1px;height:30px;' src='https://storage.ko-fi.com/cdn/kofi6.png?v=6' border='1' alt='Buy Me a Coffee at ko-fi.com' />
+</a>
+</p>
+
+---
+
+## 📬 Conecte-se comigo  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alberto-hernández-peña/)
+[![Workana](https://img.shields.io/badge/Workana-1F77B4?style=for-the-badge)](https://www.workana.com/freelancer/fd7d49c6c5bbf49c34f678220196cbff)
+[![Gumroad](https://img.shields.io/badge/Gumroad-FF5C00?style=for-the-badge)](https://elflacorex.gumroad.com/subscribe)
+
+---
+
+✨ *“O código é mais do que linhas: é a ferramenta que transforma ideias em soluções.”* ✨
